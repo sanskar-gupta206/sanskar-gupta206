@@ -17,6 +17,12 @@
 - ✍️ &nbsp; Pursuing Data Analyst/Scientist as hobbies/side hustles.
 
 
+<hr>
+<h3>PyScript Money Tracker 💸</h3>
+A web application that helps you keep track of your expenses with ease using **PyScript**, **Python**, **HTML**, and **CSS**.
+
+- 🌐[Expense Tracker](https://sanskarg.pyscriptapps.com/expense-tracker/latest/)
+- 🖥️ [GitHub Repository](https://github.com/sanskar-gupta206/Expense-Tracker_V3)
 
 
 
